@@ -71,7 +71,7 @@
 <key>ShowInLockScreen</key>
 <false/>
 <key>ShowInNotificationCenter</key>
-<true/>
+<false/>
 <key>SoundsEnabled</key>
 <true/>
 </dict>
